@@ -311,7 +311,7 @@ API ссылка - https://openrouter.ai/api/v1
 
 За Pull Request и контакт CrazyMitaBot спасибо:  
 - スノー (v1nn1ty)
-- vladislavmorozov2007  
+- vladislavmorozov2007 - обновил README.md до состояния актуального на 2026 год.  
 
 Спасибо и самому проекту CrazyMitaBot - благодаря им озвучка становится доступней  
 
