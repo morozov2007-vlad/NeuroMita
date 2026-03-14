@@ -107,7 +107,7 @@ Translation (DeepSeek) [English readme](README_EN.md)
  - Список моделей:  
  mistral-large-2512  
  
- - Лимиты: неизвестны.  
+ - Лимиты: 500к токенов в минуту, 1 млрд. токенов в месяц.  
 
 Список моделей (как бесплатных, так и платных): https://docs.mistral.ai/getting-started/models
  - Способ постепенно начали прикрывать.   
@@ -311,6 +311,7 @@ API ссылка - https://openrouter.ai/api/v1
 
 За Pull Request и контакт CrazyMitaBot спасибо:  
 - スノー (v1nn1ty)
+- vladislavmorozov2007  
 
 Спасибо и самому проекту CrazyMitaBot - благодаря им озвучка становится доступней  
 
